@@ -1,0 +1,344 @@
+Freemode01:   accs 002 & 003 - Belts
+
+              accs 007 - radio
+
+              accs 009 - Sholder Holster with Gun
+
+              accs 010 - Sholder Holster
+
+              decl 001 - Ranks
+
+              decl 002 - Ranks
+
+              decl 003 - LSPD SWAT Patch
+
+              decl 004 - LSSD SWAT Patch
+
+              decl 005 - NOOSE SWAT Patch
+
+              decl 006 - BCSO Swat Patch
+
+              jbib 014 - Polos
+
+              task 001 - Belt with Radio
+
+              task 002 - Belt with Radio 2 
+
+              task 003 - Police, Sheriff, & PIA Velcro Vest 
+
+              task 004 - Sheriff, Police, & colors Small Vest
+
+              task 007 - LSPD, LSSD, BCSO, FIB, DOA, & SAHP Gang Vests
+
+              teef 001 - Leg Holster with gun
+
+              teef 002 - Belt Holster
+
+              teef 003 - Leg Holster
+
+              teef 004 - Velcro Vest Under
+
+              teef 005 - Detective Holster
+
+              teef 006 - Detective Holster with gun
+
+              teef 008 - Belt Holster with gun
+
+Apt01:        accs 001 - Belt
+
+              jbib 002 - LSPD Polos
+
+              jbib 003 - BCSO & LSSD Polos
+
+              jbib 006 - US Border Short Sleeve
+
+              jbib 007 - US Border long Sleeve
+
+              jbib 008 - LSSD Long Sleeve
+             
+              jbib 009 - LSSD Short Sleeve 
+            
+              jbib 010 - LSPD K-9 Long Sleeve
+     
+              jbib 011 - LSPD K-9 Short Sleeve
+ 
+              jbib 012 - SAHP Hi-Viz Jacket
+
+              lowr 005 - Tack Pants 
+
+              task 000 - Chest Mic
+
+              task 002 - LSPD & NOOSE Heavy Vest
+
+Business:  N/A
+
+Hipster:      accs 000 - Belt
+
+              accs 003 - SAHP, BCSO, & LSSD Badge with belt
+
+              jbib 000 - SAHP long Sleeve
+
+              jbib 002 - SAHP short Sleeve
+
+Independence: accs 000 - Belt
+
+              jbib 001 - SADOC Long Sleeve
+
+mplts:        decl 000 - Ranks
+
+              jbib 000 - Long sleeve tack under
+
+              lowr 000 - Swat style Tack Pants
+
+              task 000 - PIA, FIB, SADOC, LSSD, & BCSO K9 Vests
+
+Pilot:        task 000 - Velcro Vest under
+
+Valentines:   BCSO, LSSD, SAHP, & SASP Winter Jacket
+
+Heist:        accs 000 to 003 - Belts
+
+              decl 000 - LSPD, LSSD, BCSO, & SAHP Pilot Patches
+
+              decl 001 - SAHP Swat Patch
+
+              jbib 000 - Long sleeve tack under (Camo)
+
+              jbib 010 - Military Top
+
+              lowr 004 - Swat style Tack Pants (Camo)
+
+              lowr 009 - BCSO, LSSD, SAHP, & SADOC Suit pants
+
+              task 000 - SAHP, BCSO, LSSD, LSPD, & PIA Outter Vest 
+
+              lowr 002 - LSPD Suit Pants
+
+xmas:         accs 001 - LSPD, NOOSE, & LSSD belt with ID
+
+xmas2:        hand 001 - LSIA Badge and Name Plate 
+
+              hand 002 - LSPP Badge and Name Plate
+
+              hand 003 - SADOC Badge and Name Plate
+
+              hand 004 - FIB Police Badge and Name Plate
+
+              hand 005 - NOOSE Badge and Name Plate
+
+              hand 006 - SASP Badge and Name Plate
+
+              jbib 000 - FIB, SAHP, & PIA Polos
+
+              lowr 000 - SAHP, BCSO, LSSD, LSPD, & LSPP Motor Unit Pants
+
+
+Airraces:     decl 000 - Collar Ranks
+
+BikerDLC:     decl 000 - Ranks
+
+              decl 006 - Military Top Decals
+
+              hand 004 - Pistol Mags 
+
+              jbib 009 - BCSO Long Sleeve
+
+              jbib 014 -  FIB, LSPD, DOA, PIA, LSSD, BCSO, & SAHP Windbreaker tucked for holster
+
+              jbib 018 - LSPD Hi-Viz Jacket
+
+              jbib 025 - FIB, LSPD, DOA, PIA, LSSD, BCSO, & SAHP Windbreaker
+
+              jbib 031 - BCSO Short Sleeve
+
+Christmas2017:  accs 009 - Police, Sheriff, FIB, & DOA Velcro Vest
+
+Christmas2018:  hand 002 - RHPD Badge and Name Plate
+
+                hand 003 - DPPD Badge and Name Plate
+
+                hand 004 - LSPD Hip Badge
+
+executive:      accs 003 - FIB, DOA, PIA, IAA, & USSS Neck Badge
+
+                accs 004 - LSPD Neck Badge 
+
+                accs 005 - FIB, DOA, PIA, IAA, & USSS Badge with high cuffs
+
+gunrunning:     accs 024 to 026 - Belts
+
+                decl 003 to 005 - Collar Ranks?
+
+ImportExport:   accs 000 - Juggernaut Armor top
+
+                jbib 000 - Noose Long sleeve with armor
+
+                jbib 004 - LSPD, LSSD, BCSO, SAHP, SASP, LSIA, LSPP, SADOC, NOOSE, FIB, RHPD, & DPPD Short Sleeve
+
+                jbib 007 - LSPD, LSSD, BCSO, SAHP, SASP, LSIA, LSPP, SADOC, NOOSE, FIB, RHPD, & DPPD Long Sleeve 
+
+                jbib 014 - LSPD, LSSD, BCSO, SAHP, SASP, LSIA, LSPP, SADOC, NOOSE, FIB, RHPD, & DPPD long Sleeve with tie
+
+                lowr 006 - Juggernaut Armor Bottom
+
+January2016:    hand 000 - LSPD Badge and Name Plate
+
+                hand 001 - LSSD Badge and Name Plate
+
+                hand 002 - BCSO Badge and Name Plate
+
+                hand 003 - SAHP Badge and Name Plate
+
+                hand 006 - FIB, DOA, PIA, & USSS Neck Badge              
+
+                hand 007 - LSPD Badge and Cuffs
+
+                hand 008 - BCSO, LSSD, SAHP, & SASP Neck Badge
+
+                lowr 000 - Tack Pants
+
+                task 000 - LSPD, SAHP, LSSD, & BCSO Traffic Vests
+ 
+                task 001 - LSPD, LSSD, BCSO, FIB, DOA, NOOSE, US Border, SAHP, SADOC, & IAA Neck ID
+
+                task 002 - LSSD, BCSO, SAHP, & SASP Neck Badge
+
+                task 003 - LSPD, SAHP, LSSD, BCSO, FIB, & DOA Velcro Vest
+
+                task 005 - FIB, DOA, PIA, IAA, & USSS Badge with Cuffs
+
+                task 006 - BCSO, LSSD, SAHP, & SASP Badge with Cuffs
+
+                task 007 - LSPD Badge with Cuffs
+
+                task 008 - LSPP, BCSO, & LSSD Port/Harbor Patrol Vest
+
+                task 009 - LSPD, BCSO, LSSD, SAHP, & SASP Under shirt with Turtleneck
+
+                task 010 - LSSD, BCSO, SAHP, FIB, DOA, & blank colors Vest
+
+                task 011 - LSPD, LSSD, BCSO, SAHP, Etc. Under Shirts
+
+                task 012 - LSPD, LSSD, BCSO, SAHP, Etc. Under Shirts with Ties 
+
+                uppr 000 - Gloves
+
+ Lowrider01:    decl 000 - Ranks
+
+                teef 000 - Holster with gun
+
+                teef 001 - Holster
+
+Lowrider02:     jbib 002 - LSIA, LSPP, & Security Winter Jacket
+
+                teef 000 - Vest Holster with gun
+
+                teef 001 - Vest Holster
+
+Luxe01:         accs 000 - LSPD, LSSD, BCSO, SAHP, Etc. Under Shirts 
+
+                accs 001 - LSPD, LSSD, BCSO, SAHP, Etc. Under Shirts with Ties
+
+                accs 004 - Belt with LSPD Badge
+
+                accs 006 - Belt
+
+                accs 007 - Belt
+
+                accs 008 -LSPD, LSSD, BCSO, SAHP, Etc. Under Shirt?
+
+                task 000 - Sholder Mic
+
+                teef 000 - Holster with gun (Camo)
+
+                teef 001 - Holster (Camo)
+
+Smuggler01:     task 001 - Noose Police Vest 
+
+                task 002 - Plain Belt
+
+                task 003 - Plain Belt 2
+
+                task 004 - Plain Belt with keys 
+
+                task 005 - Plain Belt 3
+
+Stunt01:        accs 000 - BCSO, LSSD, SAHP, & SASP Neck Badge
+
+                decl 000 - Ranks
+
+                decl 001 - Ranks
+
+                decl 002 - FIB Swat Patches
+
+                feet 003 - Boots
+
+                jbib 004 - jacket
+
+                jbib 005 - Police and Sheriff Off-road Motor unit top
+
+                jbib 007 - LSPD Winter Jacket
+
+                jbib 009 - BCSO, SASP, & LSSD Hi-Viz Jacket
+
+                lowr 001 - Police and Sheriff Off-road Motor unit Bottom (Textures)
+
+`````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+Freemode_p:    head 001 - Patrol Cap 
+
+               head 002 - Cowboy Hat (No badge)
+
+               head 004 - Campaign Hat (No Badge)
+
+               head 005 - Beanie
+
+               head 006 - Winter Hat 
+
+               head 008 - Winter Hat with Badge
+
+               head 010 - LSSD, SASP, LSPD, FIB, BCSO, & Noose Ballcap
+
+               head 013 - Campaign Hat with Badge
+
+               head 017 - SAHP, LSPD, LSSD, & BCSO Motor Helmets
+
+Apt01_p:       head 001 - Patch Caps Textures.
+
+Hipster_p:     head 000 - Baret
+
+independence_p:   eyes 001 - Gas Mask
+
+                  head 002 - Cowboy hat With Badges
+
+Mptls_p:         head 000 - Military helmet
+
+Hiest_p:         head 000 - Patrol Cap
+
+                 head 002 - Bike Helmet
+
+                 head 003 - LSPP Helmet
+
+Xmas2_p:         head 004 - SAHP, SADOC, & LSPP Ballcaps (textures)
+
+Bikerdlc_p:      eyes 001 - Helmet Goggles
+
+                 head 005 - Military Helmet
+
+                 head 010 - Riot Helmet
+
+January2016_p:   eyes 000 - Tack Glasses
+
+                 head 000 - Tack Helmet
+
+Stunt01_p:       head 008 - Tack helmet with mic
+
+                 head 011 - LSPD, BCSO, & LSSD Pilot Helmets
+
+                 head 012 - LSPD, BCSO, & LSSD Pilot Helmets?
+
+                 head 013 - Riot Helmet style 2
+
+                 head 014 - Open Riot helmet
+
+
+
